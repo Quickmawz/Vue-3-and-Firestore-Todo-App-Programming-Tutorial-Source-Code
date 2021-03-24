@@ -3,9 +3,10 @@
 ## Project setup
 ```
 npm install
+```
 
 Must install firebase via NPM as well if not already installed.
-```
+
 
 ### Compiles and hot-reloads for development
 ```
