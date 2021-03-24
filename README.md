@@ -6,7 +6,9 @@ npm install
 ```
 
 Must install firebase via NPM as well if not already installed.
-
+```
+npm install --save firebase
+```
 
 ### Compiles and hot-reloads for development
 ```
