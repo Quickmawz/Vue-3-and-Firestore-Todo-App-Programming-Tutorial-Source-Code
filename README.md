@@ -5,10 +5,8 @@
 npm install
 ```
 
-Must install firebase via NPM as well if not already installed.
-```
-npm install --save firebase
-```
+If folder name is too long from downloading and using the zipped file version of this source code from Github, the npm install command may not work properly, so in that case just edit the folder names to something shorter, and installation should run smoothly.
+
 
 ### Compiles and hot-reloads for development
 ```
